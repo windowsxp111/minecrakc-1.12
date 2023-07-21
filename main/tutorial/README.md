@@ -64,11 +64,11 @@ or else it will throw an error like this:
 ```powershell
 NameError: name 'player_pos' is not defined
 ```
-**in a tutorial**
-this basically means the computer doesnt know what you're talking about. this probably means you missed something in the tutorial and forgot to write the code 
-<u> *(if u wanna go to the next part click [this](#making-the-player-move))*</u>
+**in a tutorial**<br>
+this basically means the computer doesnt know what you're talking about. this probably means you missed something in the tutorial and forgot to write the code <br><br>
+<u> *(if u wanna go to the next part click [this](#making-the-player-move))*</u><br>
 
-**not in a tutorial**
+**not in a tutorial**<br>
 you have to make a variable for the thingy
 
 ```python
